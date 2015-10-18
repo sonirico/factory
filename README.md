@@ -13,4 +13,7 @@ Simple Python snippet to factorize numbers by cuadratic sieve.
 
 # Why
 
-Since a like this kind of veeery useful stuff and 'factor' command from Unix terminals has a "too large" number restriction y created this simple and inefficient snippet to supersede the native command. Please, don't hesitate in reporting new issues, bugs or enhancements.
+Since a like this kind of veeery useful stuff and 'factor' command from Unix
+terminals has a "too large" number restriction I created this simple and 
+inefficient snippet to supersede the native command. Please, don't hesitate in
+reporting new issues, bugs or enhancements.
