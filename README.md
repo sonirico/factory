@@ -10,6 +10,11 @@ Simple Python snippet to factorize numbers by cuadratic sieve.
 ~$ seq 1 100 | python factor.py
 ~$ time [insert here any command of the above]
 ```
+# Hints
+
+Please note that this programm will work relatively fast with numbers 
+made up with 3 factors or more. For bigger numbers with less than 3 factors
+it will take its time.
 
 # Why
 
